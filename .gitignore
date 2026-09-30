@@ -1,0 +1,8 @@
+*.o
+ramora-server
+ramora-client
+ramora-test
+*.log
+core
+.vscode/
+.idea/
